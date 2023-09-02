@@ -1,10 +1,10 @@
-# Aplicacion de notas
+# Aplicación de notas
 
-Es una aplicacion desarrollada en un curso de javaFX impartido por un proesor de mi universidad, el objetivo era entender el funcioamiento de esa herramienta asi como aprender a desarrollar con ella. 
+Es una aplicación desarrollada en un curso de javaFX impartido por un profesor de mi universidad, el objetivo era entender el funcionamiento de esa herramienta a si como aprender a desarrollar con ella.
 
-Detalles de la apliacacion.
+Detalles de la aplicación.
 
-La apliacion cumple con sus funciones sim embargo a un no es portable.
+La aplicación cumple con sus funciones sin embargo a un no es portable.
 
 Funciones de aplicacion:
 
