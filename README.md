@@ -8,13 +8,19 @@ La apliacion cumple con sus funciones sim embargo a un no es portable.
 
 Funciones de aplicacion:
 
--Agregar nota
-  -Título 
-  -Descripción  
--Buscador de nota
--Editar nota
--Borrar nota
--Contador de notas 
+-_Agregar nota_
+  
+  -_Título_ 
+  
+  -_Descripción_  
+
+-_Buscador de nota_
+
+-_Editar nota_
+
+-_Borrar nota_
+
+-_Contador de notas_ 
 
 Desarrollado en: __Apache NetBeans__
 
