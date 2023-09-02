@@ -14,11 +14,11 @@ Funciones de aplicacion:
   
   -_Descripción_  
 
--_Buscador de nota_
+-_Buscador_
 
--_Editar nota_
+-_Editar_
 
--_Borrar nota_
+-_Borrar_
 
 -_Contador de notas_ 
 
